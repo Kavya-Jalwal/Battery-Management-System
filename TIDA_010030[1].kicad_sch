@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "93624266-d033-45b0-a7e3-71c8fb9e1923")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 30.48 55.88)
+		(size 63.5 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0724fa51-b70c-4d4e-af78-35d078068dd7")
+		(property "Sheetname" "BQ76940"
+			(at 30.48 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BQ76940.kicad_sch"
+			(at 30.48 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 99.06)
+		(size 60.96 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "204291aa-1e23-4c7e-9f9b-1f43ae0c9a4e")
+		(property "Sheetname" "MCU"
+			(at 160.02 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 160.02 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 58.42)
+		(size 64.77 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ef66fbd-c44b-46b9-b681-1033b2aab5d4")
+		(property "Sheetname" "BQ771801"
+			(at 160.02 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BQ771801.kicad_sch"
+			(at 160.02 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 20.32)
+		(size 63.5 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "466292ed-1b23-43ed-bd52-367f366dc8c2")
+		(property "Sheetname" "Block Diagram"
+			(at 30.48 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Block Diagram.kicad_sch"
+			(at 30.48 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 96.52)
+		(size 64.77 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af2b3a17-b54a-4d75-bf09-7f9b4c9ec355")
+		(property "Sheetname" "BQ76200"
+			(at 30.48 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BQ76200.kicad_sch"
+			(at 30.48 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 24.13)
+		(size 64.77 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bb289fd8-f091-46d4-9ebd-b11891629dd7")
+		(property "Sheetname" "Power supply"
+			(at 160.02 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersupply.kicad_sch"
+			(at 160.02 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TIDA_010030"
+				(path "/93624266-d033-45b0-a7e3-71c8fb9e1923"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
